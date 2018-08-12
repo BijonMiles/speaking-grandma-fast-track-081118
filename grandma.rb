@@ -19,7 +19,7 @@ end
 
 def speak_to_grandma(speak)
   if speak == "I LOVE YOU GRANDMA!"
-    puts speak
+    puts 
   elsif speak == "If you shout, she can hear you"
     puts "NO, NOT SINCE 1938"
   else
