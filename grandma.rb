@@ -28,5 +28,4 @@ def speak_to_grandma(speak)
   end
 end
 
-res("I LOVE YOU GRANDMA")
 speak_to_grandma(speak)
