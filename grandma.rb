@@ -28,4 +28,3 @@ def speak_to_grandma(speak)
   end
 end
 
-speak_to_grandma(speak)
